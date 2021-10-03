@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557674318032",
+    "firebase_url": "https://esp8266-maria-default-rtdb.firebaseio.com",
+    "project_id": "esp8266-maria",
+    "storage_bucket": "esp8266-maria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557674318032:android:f12eb88801f9bf595636d5",
+        "android_client_info": {
+          "package_name": "com.example.wmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557674318032-bgo97c6vtfhjrvp2pgq8dsl771kun105.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB14Eo_bzvqRuhTOkdcHBNoXVNSA2Bmt1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557674318032-bgo97c6vtfhjrvp2pgq8dsl771kun105.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
